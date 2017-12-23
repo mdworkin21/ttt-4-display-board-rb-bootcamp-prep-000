@@ -8,4 +8,4 @@ def display_board(board)
 
 end
 
-display_board(board[5])
+display_board(board)
